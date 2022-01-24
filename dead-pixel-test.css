@@ -1,0 +1,22 @@
+  .computer-screen-button-cta {
+    text-align: center;
+    transition: all 0.3s;
+    cursor: pointer;
+    position: relative;
+    z-index: 10;
+    color: black;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border: black;
+    border-radius: 20px;
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
+  }
+
+  .computer-screen-button-cta:hover {
+    color: white;
+    background: black;
+    transition: all 0.3s;
+  }
